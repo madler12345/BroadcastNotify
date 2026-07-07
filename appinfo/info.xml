@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<info>
+
+    <id>broadcastnotify</id>
+
+    <name>Broadcast Notify</name>
+
+    <summary>
+        Send broadcast notifications to all users.
+    </summary>
+
+    <description>
+        Adds an OCC command that sends notifications
+        to every Nextcloud user.
+    </description>
+
+    <version>1.0.0</version>
+
+    <licence>AGPL</licence>
+
+    <author>Menachem Adler</author>
+
+    <namespace>BroadcastNotify</namespace>
+
+    <dependencies>
+        <nextcloud min-version="34" max-version="34"/>
+    </dependencies>
+
+</info>
