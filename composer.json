@@ -1,0 +1,11 @@
+{
+    "name": "menachemadler/broadcastnotify",
+    "description": "Broadcast notifications to all logged-in Nextcloud users.",
+    "type": "project",
+    "license": "AGPL-3.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "OCA\\BroadcastNotify\\": "lib/"
+        }
+    }
+}
